@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">demoEditText</string>
+    <string name="article_text">Yêu cầu:\nSố điện thọai và email phải hợp lệ\nMật khẩu tối thiểu là 8 kí tự\nEdittext nào không nhập vào thì báo lỗi\nNếu không đúng điều kiện sẽ hiển thị lên Textview và background edittext sẽ chuyển sang màu đỏ.
+
+    </string>
+</resources>
